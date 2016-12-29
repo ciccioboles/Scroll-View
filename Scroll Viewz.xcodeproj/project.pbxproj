@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					6534E1321E14DFCB002A30B0 = {
 						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = 92A3F59JUA;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 92A3F59JUA;
 				INFOPLIST_FILE = "Scroll Viewz/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ciccio.Scroll-Viewz";
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 92A3F59JUA;
 				INFOPLIST_FILE = "Scroll Viewz/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ciccio.Scroll-Viewz";
